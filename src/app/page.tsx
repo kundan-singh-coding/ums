@@ -61,7 +61,7 @@ const LoginPage: React.FC = () => {
         />
           <h1 className="text-3xl font-semibold text-gray-800">Login</h1>
           <h6 className="w-full flex-none mb-3 text-lg leading-none text-slate-900">
-MR.SATYA SAGAR
+MR.kundan Singh
       </h6>
         </div>
         {error && (
